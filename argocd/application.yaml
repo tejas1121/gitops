@@ -1,0 +1,1 @@
+# Purpose: Define the ArgoCD Application that continuously deploys the Kubernetes manifests.

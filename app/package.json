@@ -1,0 +1,6 @@
+{
+  "name": "gitops-eks-sample-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Placeholder package manifest for the sample Node.js/Express REST API."
+}

@@ -1,0 +1,5 @@
+# Purpose: Exclude local files and dependencies from the sample API container build context.
+node_modules
+npm-debug.log
+.git
+.gitignore
